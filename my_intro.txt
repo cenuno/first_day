@@ -1,4 +1,4 @@
-Name:             Cristian E. Nuno
+Name:             Vim is hard
 Email:            cristian.nuno@flatironschool.com
 Favorite Place:   Hakone, Japan
 Favorite Food:    Lou Malnati's Deep Dish Pizza
